@@ -11,7 +11,7 @@ export const GLOBAL_REVIEWS: Review[] = [
     fitFeedback: 'Boxy Silhouette — Heavyweight Drape',
     productName: 'Boxy Heavyweight Tee & Baggy Denim',
     comment: 'The 300 GSM combed cotton fabric weight is unlike any standard tee. The drape is crisp yet relaxed, holding its shape all day. Paired with the loose denim, the stacking is effortless.',
-    reviewImage: '/assets/savage_white_tee_denim_1789546627787.jpg',
+    reviewImage: './assets/savage_white_tee_denim_1789546627787.jpg',
   },
   {
     id: 'rev-02',
@@ -23,7 +23,7 @@ export const GLOBAL_REVIEWS: Review[] = [
     fitFeedback: 'True to Size — Curved Silhouette',
     productName: 'Washed Wide-Leg Barrel Denim Jeans',
     comment: 'Minimalism at its highest level. The curved barrel cut and hand-worked vintage wash feel incredible. Heavy 14.5oz selvedge denim that drapes perfectly over sneakers.',
-    reviewImage: '/assets/savage_barrel_jeans_1789546640614.jpg',
+    reviewImage: './assets/savage_barrel_jeans_1789546640614.jpg',
   },
   {
     id: 'rev-03',
@@ -35,7 +35,7 @@ export const GLOBAL_REVIEWS: Review[] = [
     fitFeedback: 'True to Size',
     productName: 'Striped Paddock Polo Jersey',
     comment: 'The knit texture and open Johnny collar give it a distinct retro-sport aesthetic. Perfect drape with baggy vintage washed jeans.',
-    reviewImage: '/assets/savage_polo_jersey_1789546653795.jpg',
+    reviewImage: './assets/savage_polo_jersey_1789546653795.jpg',
   },
   {
     id: 'rev-04',
@@ -47,7 +47,7 @@ export const GLOBAL_REVIEWS: Review[] = [
     fitFeedback: 'Oversized Fit',
     productName: 'Ochre Boxy Drop-Shoulder Tee',
     comment: 'The pigment-dyed mustard ochre tone is subtle and rich in person. The high mock collar does not stretch out. Truly a daily staple piece.',
-    reviewImage: '/assets/savage_yellow_tee_1789546667331.jpg',
+    reviewImage: './assets/savage_yellow_tee_1789546667331.jpg',
   },
   {
     id: 'rev-05',
@@ -59,7 +59,7 @@ export const GLOBAL_REVIEWS: Review[] = [
     fitFeedback: 'True to Size',
     productName: 'Pale Lilac Architectural Boxy Tee',
     comment: 'The pale lilac tone paired with raw indigo denim is a masterclass in palette design. Dense interlock cotton with structured shoulders.',
-    reviewImage: '/assets/savage_lilac_tee_1789546681771.jpg',
+    reviewImage: './assets/savage_lilac_tee_1789546681771.jpg',
   },
   {
     id: 'rev-06',
@@ -71,6 +71,6 @@ export const GLOBAL_REVIEWS: Review[] = [
     fitFeedback: 'True to Size',
     productName: 'Womens Studio Boxy Tee & Loose Denim',
     comment: 'Immaculate proportions. The relaxed boxy tee with high-waisted curved jeans gives a clean runway look with maximum comfort.',
-    reviewImage: '/assets/savage_womens_studio_1789546698748.jpg',
+    reviewImage: './assets/savage_womens_studio_1789546698748.jpg',
   },
 ];

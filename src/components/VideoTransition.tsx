@@ -88,7 +88,7 @@ export const VideoTransition: React.FC<VideoTransitionProps> = ({ visitorName, o
       {/* Cinematic Full-Screen Video Player */}
       <video
         ref={videoRef}
-        src="/assets/savage_store_tour.mp4"
+        src="./assets/savage_store_tour.mp4"
         playsInline
         autoPlay
         muted={isMuted}
@@ -100,7 +100,7 @@ export const VideoTransition: React.FC<VideoTransitionProps> = ({ visitorName, o
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: `url('/assets/savage_store_tour.mp4')`,
+            backgroundImage: `url('./assets/savage_store_tour.mp4')`,
             backgroundColor: '#171717',
           }}
         >

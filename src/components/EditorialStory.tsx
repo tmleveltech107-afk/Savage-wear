@@ -40,7 +40,7 @@ export const EditorialStory: React.FC<EditorialStoryProps> = ({ onReplayFilm, on
           <div className="group relative flex flex-col">
             <div className="relative aspect-[3/4] w-full overflow-hidden bg-black/40">
               <img
-                src="/assets/savage_mens_look_1789543668563.jpg"
+                src="./assets/savage_mens_look_1789543668563.jpg"
                 alt="SAVAGE WEAR Men Lookbook"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-1000 ease-out"
@@ -73,7 +73,7 @@ export const EditorialStory: React.FC<EditorialStoryProps> = ({ onReplayFilm, on
           <div className="group relative flex flex-col">
             <div className="relative aspect-[3/4] w-full overflow-hidden bg-black/40">
               <img
-                src="/assets/savage_womens_look_1789543688852.jpg"
+                src="./assets/savage_womens_look_1789543688852.jpg"
                 alt="SAVAGE WEAR Women Lookbook"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-1000 ease-out"

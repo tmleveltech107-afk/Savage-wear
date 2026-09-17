@@ -12,15 +12,15 @@ interface Slide {
 
 const HERO_SLIDES: Slide[] = [
   {
-    src: '/assets/savage_campaign_hero_1789543640722.jpg',
+    src: './assets/savage_campaign_hero_1789543640722.jpg',
     alt: 'SAVAGE WEAR SS26 Collection',
   },
   {
-    src: '/assets/savage_mens_tracksuit_1789641827775.jpg',
+    src: './assets/savage_mens_tracksuit_1789641827775.jpg',
     alt: 'SAVAGE WEAR Men Tracksuit Editorial',
   },
   {
-    src: '/assets/savage_womens_tracksuit_1789641847135.jpg',
+    src: './assets/savage_womens_tracksuit_1789641847135.jpg',
     alt: 'SAVAGE WEAR Women Tracksuit Editorial',
   },
 ];
