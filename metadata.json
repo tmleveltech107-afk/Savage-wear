@@ -1,0 +1,6 @@
+{
+  "name": "SAVAGE WEAR",
+  "description": "A premium, high-end fashion ecommerce flagship for SAVAGE WEAR — clean, confident, and sophisticated modern streetwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
